@@ -41,5 +41,9 @@ public class stepDefinitions {
     	System.out.println(strArg1);
     	System.out.println("Git things");
     }
+   public void getdevelopbranch()
+   {
+	   System.out.println("Verify develop branch");
+   }
     
     }
