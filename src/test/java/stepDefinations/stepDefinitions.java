@@ -27,6 +27,7 @@ public class stepDefinitions {
     @Then("^Homepage is populated$")
     public void homepage_is_populated() throws Throwable {
         System.out.println("Validated Homepage");
+        System.out.println("Git develop branch");
     }
     @When("^User login into application with \"([^\"]*)\" and password \"([^\"]*)\"$")
     public void user_login_into_application_with_something_and_password_something(String strArg1, String strArg2) throws Throwable {
