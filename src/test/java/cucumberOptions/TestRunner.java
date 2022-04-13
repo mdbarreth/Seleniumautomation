@@ -10,5 +10,5 @@ import io.cucumber.junit.CucumberOptions;
 		glue = "stepDefinations"
 		)
 public class TestRunner {
-	
+
 }
